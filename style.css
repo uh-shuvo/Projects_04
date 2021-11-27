@@ -1,0 +1,16 @@
+body{
+	background-color: lightcoral;g
+}
+h2{
+	color: red;
+}
+.heading2{
+	font-size: 45px;
+	color: blueviolet;
+}
+.border_black{
+	border: 2px solid black;
+}
+#heading2{
+	color: skyblue;
+}
